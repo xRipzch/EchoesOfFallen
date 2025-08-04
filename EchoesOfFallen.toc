@@ -1,0 +1,18 @@
+## Interface: 11403
+## Title:      Echoes of Fallen
+## Notes:      Guild-only hardcore death memorial addon
+## Guild:      Back To Brill
+## Author:     Yulas
+## Version:    0.0.2
+
+Core.lua
+Events.lua
+Commands.lua
+UI.lua
+Config.lua
+locale\enUS.lua
+libs\Ace3\AceAddon-3.0\AceAddon-3.0.xml
+libs\Ace3\AceDB-3.0\AceDB-3.0.xml
+libs\Ace3\AceComm-3.0\AceComm-3.0.xml
+libs\Ace3\AceGUI-3.0\AceGUI-3.0.xml
+libs\Ace3\AceConfig-3.0\AceConfig-3.0.xml
